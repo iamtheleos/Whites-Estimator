@@ -7,10 +7,10 @@
 It is estimate the White's Variance and compare with the Heteroscedasticity-adjusted Variance-Covariance Matrix.  
 
 
-<ol> The chosen the dataset is [car](https://www.rdocumentation.org/packages/car/versions/3.1-0).
+The chosen the dataset is [car](https://www.rdocumentation.org/packages/car/versions/3.1-0).
 
 ### Regression:
 
-<ol> Regressor 1: scholling
+ Regressor 1: scholling
  Regressor 2: age
  Dependent Variable: earnings
