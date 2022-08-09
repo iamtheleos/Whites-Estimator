@@ -12,5 +12,5 @@ It is estimate the White's Variance and compare with the Heteroscedasticity-adju
 ### Regression:
 
 <ol> Regressor 1: scholling
-<ol> Regressor 2: age
-<ol> Dependent Variable: earnings
+ Regressor 2: age
+ Dependent Variable: earnings
