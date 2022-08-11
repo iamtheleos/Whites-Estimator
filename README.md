@@ -1,4 +1,4 @@
-# Whites-Estimator
+# Whites-Variance
 
 ## Description 
 
